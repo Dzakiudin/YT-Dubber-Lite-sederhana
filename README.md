@@ -1,4 +1,4 @@
-#YT Dubber Lite  sederhana
+YT Dubber Lite  sederhana
 Ekstensi Chrome sederhana untuk memberikan dubbing (sulih suara) secara real-time pada video YouTube dengan membaca dan menerjemahkan subtitle yang tersedia. Proyek ini sepenuhnya gratis, open-source, dan menggunakan API bawaan peramban.
 
 Demo Singkat
