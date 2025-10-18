@@ -50,7 +50,7 @@ done
 
 ### Tonton Tutorialnya di YouTube
 
-[![Tonton Tutorial](https://raw.githubusercontent.com/Dzakiudin/YT-Dubber-Lite-sederhana/main/demo/thumbnail.png)](https://youtu.be/SW66wRY5GeM)
+https://youtu.be/SW66wRY5GeM
 
 ### 💻 Teknologi yang Digunakan
 
