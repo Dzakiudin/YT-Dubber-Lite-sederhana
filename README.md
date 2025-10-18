@@ -48,6 +48,10 @@ Karena ekstensi ini belum dipublikasikan di Chrome Web Store, Anda perlu memuatn
 4. aktifkan subtitle
 done
 
+### Tonton Demo di YouTube
+
+[![Tonton Demo](https://github.com/NAMA_USER_ANDA/NAMA_REPO_ANDA/blob/main/demo/thumbnail.png?raw=true)]([https://www.youtube.com/watch?v=LINK_VIDEO_YOUTUBE_ANDA](https://youtu.be/SW66wRY5GeM))
+
 ### 💻 Teknologi yang Digunakan
 
 * **JavaScript (ES6+)**
