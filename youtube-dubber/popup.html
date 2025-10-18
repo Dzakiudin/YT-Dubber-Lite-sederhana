@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>YouTube Dubber Control</title>
+    <link rel="stylesheet" href="popup.css">
+    <meta charset="UTF-8">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>YouTube Dubber</h1>
+            <p>Versi Subtitle Cerdas</p>
+        </div>
+        
+        <div class="control-group">
+            <label for="langSelect">Bahasa Tujuan:</label>
+            <select id="langSelect">
+                <option value="id-ID">Bahasa Indonesia</option>
+                <option value="en-US">English (US)</option>
+                <option value="ja-JP">日本語 (Japanese)</option>
+                <option value="ko-KR">한국어 (Korean)</option>
+                <option value="fr-FR">Français (French)</option>
+                <option value="de-DE">Deutsch (German)</option>
+            </select>
+        </div>
+
+        <button id="toggleDubbing">Mulai Dubbing</button>
+        
+        <div id="status" class="status-inactive">Status: Tidak Aktif</div>
+    </div>
+    <script src="popup.js"></script>
+</body>
+</html>
+
